@@ -75,3 +75,37 @@ h2{
   color: #1f2937;
   text-align: center;
 }
+.box-blue{
+  border: 3px solid blue;
+  width: 145px;
+  height: 150px;
+}
+.row-of-blue-divs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding-top: 50px;
+}
+.third-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  background-color: #e5e7eb;
+  height: 350px;
+}
+.p-third{
+  display: flex;
+  align-self: flex-end;
+  font-size: 25px;
+  background-color: #e5e7eb;
+  margin-bottom:40px;
+  margin-right: 200px; 
+}
+h3{
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1f2937;
+}
